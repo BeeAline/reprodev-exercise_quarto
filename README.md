@@ -8,4 +8,4 @@ Authors:
 - Robyn van Houdenhoven
 
  
-The rendered `Quarto` file can be found [here](/doc/reprodev-exercise_quarto.html)
+The rendered `Quarto` file can be found [here](/doc/reprodev-exercise-quarto.html)
